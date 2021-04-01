@@ -1,0 +1,59 @@
+body {
+font-family:'Georgia', serif;
+}
+header {
+    min-height: 90px;
+    border-bottom: 5px solid #77ef81;
+}
+h1 {
+    font-size: x-large;
+    text-decoration: underline;
+    font-weight: bold;
+    color:#0cf00c;
+    text-align: center;
+    padding: 2pc 1pc;
+}
+h1 i {
+    color:#310ff1;
+}
+p {
+    text-align: left; color: #11a3ddd7;">
+}
+i {
+    color:brown;
+}
+b {
+    color: brown;
+}
+u {
+    color:#e1f00c;
+    font-weight: bold;
+}
+nav {
+    background: #0d80a3;
+    color: #fff;
+    padding-left: 10px;
+}
+nav a {
+    color: #fc0505;
+    text-decoration: none;
+    padding: 5px 20px;
+}
+nav .active,nav a:hover {
+    background: #0cf0d2;
+}
+/*Id Selector*/
+#intro {
+    background: #f57777;
+    border:1px solid #e1f00c;
+    min-height: fit-content;
+    padding: 5px;
+}
+/* class selector */
+.button {
+    padding: 15px 20px;
+    background: #e1f00c;
+    color: #fff;
+    margin: 10px;
+    text-decoration: line-through;
+}
